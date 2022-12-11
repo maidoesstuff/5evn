@@ -11,7 +11,15 @@ Web này được build bằng [Docusaurus 2](https://docusaurus.io/).
 - [Node v16+](https://nodejs.org/en/download/)
 - [PNPM 7](https://pnpm.io/installation)
 
+### Script
+
 ```shell
 pnpm install
+pnpm start
+```
+
+### Build
+
+```shell
 pnpm build
 ```
