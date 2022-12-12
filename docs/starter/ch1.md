@@ -74,7 +74,7 @@ Thông thường, hành động của một cuộc phiêu lưu hoàn toàn diễ
 ## Làm tròn
 Làm tròn xuống bất cứ khi nào trò chơi yêu cầu bạn giảm một nửa con số. Ví dụ: nếu bạn chia đôi 15, bạn nhận được 7.
 
-### Tiếp theo là gì?
+## Tiếp theo là gì?
 Bộ sách này là một trải nghiệm DUNGEONS & DRAGONS hoàn chỉnh, đủ để cung cấp hàng giờ chơi. Bạn thậm chí có thể chơi qua cuốn sách phiêu lưu này nhiều lần. Bao nhiêu điều khác biệt có thể xảy ra mà sẽ làm ngạc nhiên đấy! Nhưng một trong những điều thỏa mãn nhất về D&D là nó mang đến cơ hội tạo ra các nhân vật, thậm chí cả thế giới, của riêng bạn.
 
 Để biết các công cụ và sản phẩm khác giúp bạn tạo nhân vật của riêng mình, hãy truy cập DungeonsandDragons.com. Ở đó bạn sẽ tìm thấy các quy tắc cơ bản của trò chơi miễn phí. Các quy tắc đó cho bạn biết cách tạo nhân vật của riêng mình để bổ sung hoặc thay thế các nhân vật trong bộ sách này, cũng như cách thăng cấp nhân vật vượt quá cấp 5.
