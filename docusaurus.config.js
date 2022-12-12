@@ -39,6 +39,8 @@ const config = {
         },
        // blog: {
           //showReadingTime: false,
+        blog: {
+          showReadingTime: false,
           // Remove this to remove the "edit this page" links.
          // editUrl: 'https://github.com/maidoesstuff/5evn',
       //  },
@@ -111,7 +113,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mai Does Stuff. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mai Le. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
