@@ -96,11 +96,7 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-               // label: 'Blog',
-               // to: '/blog',
-              },
-              {
+    {
                 label: 'GitHub',
                 href: 'https://github.com/maidoesstuff/5evn',
               },
