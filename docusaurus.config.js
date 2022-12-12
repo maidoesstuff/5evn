@@ -65,7 +65,6 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/maidoesstuff/5evn',
             label: 'GitHub',
@@ -90,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/<INVITE_CODE_HERE>',
+                href: 'https://discord.gg/cNb52tca',
               },
             ],
           },
@@ -108,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Mai Does Stuff. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Mai Le. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
