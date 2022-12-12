@@ -37,11 +37,11 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/maidoesstuff/5evn',
         },
-        blog: {
-          showReadingTime: true,
+       // blog: {
+          //showReadingTime: false,
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/maidoesstuff/5evn',
-        },
+         // editUrl: 'https://github.com/maidoesstuff/5evn',
+      //  },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -61,27 +61,30 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'starter/ch1',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Starter Set',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/maidoesstuff/5evn',
-            label: 'GitHub',
-            position: 'right',
-          },
+         // {
+         //   href: 'https://github.com/maidoesstuff/5evn',
+         //   label: 'GitHub',
+          //  position: 'right',
+         // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Bản dịch',
             items: [
+              // {
+              //   label: 'Tutorial',
+              //   to: '/docs/intro',
+              // },
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Starter set',
+                to: '/docs/starter/ch1',
               },
             ],
           },
@@ -97,10 +100,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/maidoesstuff/5evn',
