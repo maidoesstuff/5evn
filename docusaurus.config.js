@@ -38,7 +38,7 @@ const config = {
           editUrl: 'https://github.com/maidoesstuff/5evn',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/maidoesstuff/5evn',
         },
@@ -97,8 +97,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+               // label: 'Blog',
+               // to: '/blog',
               },
               {
                 label: 'GitHub',
