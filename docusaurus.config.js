@@ -37,13 +37,11 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/maidoesstuff/5evn',
         },
-       // blog: {
-          //showReadingTime: false,
         blog: {
           showReadingTime: false,
           // Remove this to remove the "edit this page" links.
          // editUrl: 'https://github.com/maidoesstuff/5evn',
-      //  },
+       },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
