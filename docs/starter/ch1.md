@@ -109,3 +109,69 @@ Chức năng quan trọng nhất của điểm năng lực là cung cấp chỉ 
 | 10-11 | +0         | 26-27 | +8         |
 | 12-13 | +1         | 28-29 | +9         |
 | 14-15 | +2         | 30    | +10        |
+
+### Luật Căn bản
+
+Thanh kiếm của một nhà thám hiểm có làm tổn thương một con rồng hay làm bật lớp vảy cứng như sắt của nó không? Con ogre có tin vào một lời chém gió hay không? Một nhân vật có thể bơi qua một dòng sông dữ dội không? Nhân vật có tránh được vụ nổ từ một quả cầu lửa hay chịu toàn bộ sát thương từ ngọn lửa? Khi kết quả của một hành động không chắc chắn, trò chơi sẽ dựa vào d20 để xác định thành công hay thất bại. Kiểm tra kỹ năng (Ability check), đổ tấn công (attack roll) và đổ thoát hiểm (saving throw) là ba loại đổ d20 chính.
+
+Với mỗi loại, bạn đổ một viên d20, thêm bất kỳ khoản cộng hoặc trừ nào và so sánh tổng số với mục tiêu. Nếu tổng số bằng hoặc vượt quá nó, bạn thành công. Dưới đây là các bước chi tiết hơn:
+<ol>
+<li><strong>Đổ xúc xắc.</strong> Đổ một viên d20, sau đó thêm điểm điều chỉnh được sử dụng cho nó. Ví dụ, một cú đổ Dexterity saving throw sẽ dùng điểm điều chỉnh Dexterity của bạn.</li>
+
+<li><strong>Áp dụng điểm cộng và trừ tùy tình huống.</strong> Một câu thần chú, một tình huống cụ thể hoặc một số hiệu ứng khác có thể mang lại điểm cộng hoặc trừ cho lượt đổ.</li>
+
+<li><strong>So sánh tổng số với một số mục tiêu.</strong> Nếu tổng số bằng hoặc vượt quá mục tiêu, bạn đã thành công.</li>
+  
+  Nếu không, bạn thất bại. Con số mục tiêu để kiểm tra kỹ năng hoặc thoát hiểm được gọi là Cấp độ khó (Difficulty Class - DC). Đối với một đòn tấn công, đó là Lớp Giáp (Armour Class - AC) của mục tiêu bị tấn công. DM thường là người xác định mục tiêu cần đạt và cho người chơi biết lượt đổ của họ thành công hay thất bại.
+
+Ability check và saving throw sẽ được thảo luận chi tiết hơn bên dưới. Attack roll sẽ được mô tả trong chương 2.
+
+  </ol>
+  
+  ### LỢI THẾ VÀ BẤT LỢI (Advantage và Disadvantage)
+
+Đôi khi một năng lực đặc biệt hoặc một câu thần chú sẽ cho bạn biết rằng bạn có lợi thế hoặc bất lợi khi đổ d20. Khi điều đó xảy ra, bạn đổ một viên d20 thứ hai. Sử dụng kết quả cao hơn trong hai lần đổ nếu bạn có lợi thế và sử dụng kết quả thấp hơn nếu bạn gặp bất lợi. Ví dụ: nếu bạn gặp bất lợi và tung được 17 và 5, bạn sử dụng số 5. Thay vào đó, nếu bạn có lợi thế và tung các số đó, bạn sử dụng số 17.
+
+Nếu có nhiều tình huống ảnh hưởng đến một lần đổ và mỗi tình huống đều mang lại lợi thế hoặc gây bất lợi cho nó, thì bạn không được tung thêm nhiều hơn một d20. Ví dụ: nếu hai tình huống thuận lợi mang lại lợi thế, bạn vẫn chỉ tung thêm một d20.
+
+Nếu hoàn cảnh khiến cho một lượt tung có cả lợi thế và bất lợi, thì bạn được coi là không có cả hai, và bạn tung duy nhất một d20. Điều này đúng ngay cả khi nhiều hoàn cảnh gây bất lợi và chỉ một hoàn cảnh mang lại lợi thế hoặc ngược lại. Trong tình huống như vậy, bạn không có lợi thế cũng không có bất lợi.
+
+Khi bạn gặp thuận lợi hoặc bất lợi và điều gì đó trong trò chơi, chẳng hạn như đặc điểm May mắn của tộc halfling cho phép bạn gieo lại d20, bạn chỉ có thể gieo lại một viên xúc xắc. Bạn có thể chọn dùng cái nào. Ví dụ: nếu một halfling có lợi thế trong ability check và đổ được 1 và 13, thì halfling này sẽ có thể sử dụng đặc điểm May mắn để đổ lại số 1 này.
+
+### ABILITY CHECK
+
+Ability check kiểm tra năng lực bẩm sinh kèm rèn luyện của một nhân vật hoặc quái vật trong nỗ lực vượt qua thử thách. DM yêu cầu đổ ability check khi một nhân vật hoặc quái vật cố gắng thực hiện một hành động (không phải tấn công) mà có khả năng thất bại. Một nhân vật có thể thực hiện Strength check để mở cửa, Intelligence check để tìm ra manh mối hoặc Wisdom check để nhận thấy goblin đang phục kích dọc đường. Khi kết quả không chắc chắn, xúc xắc xác định kết quả.
+
+Để thực hiện ability check, hãy đổ d20 và thêm modifier thích hợp. Ví dụ: bạn sẽ sử dụng Strength modifier của mình cho một Strength check.
+
+ Nếu tổng bằng hoặc vượt quá DC, ability check thành công. Nếu không, check không thành công, có nghĩa là nhân vật hoặc quái vật không đạt được mục tiêu hoặc tiếp tục với một setback do DM xác định.
+Thông thường, sách phiêu lưu sẽ cho DM biết loại check mà một nhân vật có thể thực hiện, DC của check và điều gì xảy ra nếu nhân vật thành công hay thất bại. Tuy nhiên, vì các nhân vật thường thử những điều không thể đoán trước, nên sách phiêu lưu cũng đưa ra lời khuyên để giúp DM quyết định sử dụng loại ability check nào và DC trong mỗi tình huống cụ thể.
+
+### Điểm cộng Thành thạo (PROFICIENCY BONUS)
+
+Bạn có thể đặc biệt thành thạo một loại nhiệm vụ nhất định liên quan đến một kỹ năng nhất định. Các bảng nhân vật sẽ liệt kê mức độ thành thạo của từng nhân vật với các kỹ năng và công cụ đặc biệt, đồng thời thông tin về quái vật trong cuốn sách phiêu lưu cũng cho biết mức độ thành thạo của quái vật. Nếu bạn thành thạo một kỹ năng, chẳng hạn như Nhào lộn (Acrobatics) hoặc Đánh lừa (Deception) (được giải thích thêm bên dưới), bạn sẽ thêm điểm cộng thành thạo của mình vào các ability check mà bạn thực hiện khi sử dụng kỹ năng đó. Nếu bạn thành thạo một công cụ nhất định, chẳng hạn như bộ dụng cụ của trộm hoặc dụng cụ của thợ xây, bạn sẽ thêm điểm thành thạo của mình vào các ability check mà bạn thực hiện khi sử dụng những công cụ đó. Bạn không bao giờ được thêm điểm thông thạo của mình hơn một lần vào cùng mỗi lần đổ d20.
+
+### TRANH ĐẤU
+
+
+Đôi khi nỗ lực của một nhân vật hoặc quái vật đối lập trực tiếp với nỗ lực của người khác. Điều này có thể xảy ra khi cả hai cùng cố gắng làm một việc và chỉ một người có thể thành công, chẳng hạn như cố gắng giật lấy chiếc nhẫn ma thuật rơi trên sàn. Tình huống này cũng áp dụng khi một trong số họ đang cố gắng ngăn cản người kia hoàn thành mục tiêu—ví dụ: khi một con quái vật cố mở cánh cửa mà một nhà thám hiểm đang đóng chặt. Trong những tình huống như thế này, kết quả được xác định bằng một hình thức ability check đặc biệt, được gọi là tranh đấu.
+
+Cả hai người tham gia sẽ đổ ability check phù hợp với nỗ lực của họ. Họ áp dụng tất cả các điểm thưởng và trừ thích hợp, nhưng thay vì so sánh tổng số với DC, họ sẽ so sánh tổng số lẫn nhau.
+
+Người tham gia có tổng số cao hơn sẽ thắng. Nhân vật hoặc quái vật đó thành công trong hành động hoặc ngăn cản thành công của nhân vật hoặc quái vật khác.
+Nếu kết quả hòa, tình hình vẫn giống như trước tranh đấu. Do đó, một thí sinh có thể mặc định giành chiến thắng. Nếu hai nhân vật hòa nhau trong một cuộc đấu để giành lấy một chiếc nhẫn trên sàn, thì không nhân vật nào giành được nó. Trong một cuộc đấu giữa một con quái vật đang cố gắng mở một cánh cửa và một nhà thám hiểm đang cố gắng giữ cho cánh cửa đóng lại, hòa có n
+
+### Kỹ năng
+
+Mỗi năng lực bao gồm một loạt các năng lực, kể cả các kỹ năng mà một nhân vật có thể thành thạo. Mỗi kỹ năng thể hiện một khía cạnh cụ thể của năng lực tương ứng và mức độ thành thạo của một nhân vật trong một kỹ năng thể hiện độ tập trung vào khía cạnh đó.
+
+Ví dụ: một Dexterity check có thể cho thấy năng lực của một nhân vật khi thực hiện một pha nhào lộn, trộm một vật thể hoặc ẩn mình. Mỗi khía cạnh này của Dexterity đều có một kỹ năng liên quan: Nhào lộn (Acrobatics), Sự khéo léo của Bàn tay (Sleight of Hand) và Lén lút (Stealth), tương ứng. Vậy, một nhân vật thành thạo Stealth sẽ đặc biệt giỏi trong các ability liên quan đến lén lút và ẩn nấp.
+
+Đôi khi, DM có thể yêu cầu ability check bằng một kỹ năng cụ thể—ví dụ: "Đổ một Wisdom (Perception) check". Ngoài ra, người chơi cũng có thể hỏi DM liệu trình độ thành thạo một kỹ năng cụ thể có áp dụng cho check hay không. Trong cả hai trường hợp, thành thạo một kỹ năng có nghĩa là một nhân vật có thể thêm điểm thành thạo của mình vào các ability check sử dụng kỹ năng đó. Nếu không thành thạo kỹ năng, nhân vật sẽ đổ ability check như bình thường.
+
+Ví dụ: nếu một nhân vật cố gắng leo lên một vách đá nguy hiểm, Dungeon Master có thể yêu cầu Strength (Athletics) check. Nếu nhân vật thông thạo Athletics, điểm thông thạo của nhân vật sẽ được thêm vào số họ đổ cho Strength check. Nếu nhân vật không thông thạo Athletics, họ chỉ đổ Strength check như bình thường.
+
+#### STRENGTH CHECK
+
+Chỉ số strength đo lường sức mạnh cơ thể, độ rèn luyện thể thao và mức độ bạn có thể sử dụng sức mạnh thể chất thô. Strength check có thể quyết định bất kỳ nỗ lực nào để nâng, đẩy, kéo hoặc phá vỡ thứ gì đó, để đẩy cơ thể bạn qua một khoảng trống hoặc áp dụng vũ lực vào một tình huống bất kỳ. Athletics phản ánh năng khiếu trong một số loại Strength check nhất định. 
+
