@@ -45,7 +45,7 @@ Từ đó, xem qua phần còn lại của cuốn sách này. Bạn không cần
 
 Mỗi người chơi chọn một nhân vật trong số năm tùy chọn đi kèm. Người chơi có thể biến những nhân vật cơ bản này thành người thật bằng cách đặt tên cho họ, mô tả ngoại hình của họ và khiến họ sống động hơn khi chơi qua suốt cuộc phiêu lưu. Nếu bạn có nhiều hơn năm người chơi, hai người có thể sử dụng cùng một nhân vật, miễn là nhân vật của từng người có các chi tiết khác nhau; một giáo sĩ có thể là một phụ nữ vui vẻ tên là Sefris, trong khi người kia là một người đàn ông nghiêm khắc tên là Albric.
 
-## Xúc xắc
+### Xúc xắc
 
 Trò chơi sử dụng xúc xắc đa diện đi kèm với bộ sách này. Trong bộ luật này, các con xúc xắc khác nhau được gọi bằng chữ d theo sau là số mặt: d4, d6, d8, d10 (số 0 trên mặt xúc xắc đại diện cho số 10), d12 và d20. Ví dụ, một d6 là một con xúc xắc sáu mặt.
 
@@ -53,7 +53,7 @@ Xúc xắc phần trăm, hoặc d100, hoạt động hơi khác một chút. B�
 
 Khi bạn cần tung xúc xắc, luật sẽ cho bạn biết có bao nhiêu loại xúc xắc cần tung, cũng như những điểm bổ trợ nào sẽ được áp dụng. Ví dụ: “3d8 + 5” có nghĩa là bạn tung ba viên xúc xắc tám mặt, cộng chúng lại với nhau và cộng 5 vào tổng số.
 
-## Cơ cấu trò chơi
+### Cơ cấu trò chơi
 
 Trò chơi D&D bao gồm một nhóm nhân vật (do người chơi điều khiển) dấn thân vào một cuộc phiêu lưu mà DM trình bày. Cuộc phiêu lưu này chính là tâm điểm của trò chơi. Nó mở ra dưới dạng một câu chuyện mà DM và những người chơi khác cùng nhau kể bằng tài liệu trong sách phiêu lưu, hay trong một cuộc phiêu lưu đã xuất bản khác, hoặc trong bối cảnh do DM tự sáng tạo ra. DM đặt bối cảnh ngay từ đầu, và cho các nhà thám hiểm lý do để tham gia. Họ là nhân vật chính của câu chuyện. Người chơi kiểm soát những gì họ làm và DM kiểm soát những con quái vật và những người mà các nhà thám hiểm gặp. DM cũng quyết định thế giới thay đổi như thế nào do hành động của các nhà thám hiểm. Cơ cấu của một cuộc phiêu lưu diễn ra theo khuôn mẫu cơ bản này:
 
@@ -71,12 +71,41 @@ Trong một số tình huống nhất định, đặc biệt là khi chiến đ�
 
 Thông thường, hành động của một cuộc phiêu lưu hoàn toàn diễn ra trong trí tưởng tượng của người chơi và DM, dựa vào mô tả bằng lời nói của DM để dựng bối cảnh. Một số DM thích sử dụng âm nhạc, hình ảnh hoặc hiệu ứng âm thanh thu sẵn để giúp thiết lập không khí, và nhiều người chơi cũng như DM giả các giọng nói khác nhau cho các nhà thám hiểm, quái vật và các nhân vật khác mà họ chơi trong trò chơi. Đôi khi, DM cũng có thể bố trí bản đồ và sử dụng token  hoặc tượng thu nhỏ đại diện cho từng sinh vật tham gia vào một cảnh để giúp người chơi theo dõi vị trí của mọi người.
 
-## Làm tròn
+### Làm tròn
 Làm tròn xuống bất cứ khi nào trò chơi yêu cầu bạn giảm một nửa con số. Ví dụ: nếu bạn chia đôi 15, bạn nhận được 7.
 
-## Tiếp theo là gì?
+### Tiếp theo là gì?
 Bộ sách này là một trải nghiệm DUNGEONS & DRAGONS hoàn chỉnh, đủ để cung cấp hàng giờ chơi. Bạn thậm chí có thể chơi qua cuốn sách phiêu lưu này nhiều lần. Bao nhiêu điều khác biệt có thể xảy ra mà sẽ làm ngạc nhiên đấy! Nhưng một trong những điều thỏa mãn nhất về D&D là nó mang đến cơ hội tạo ra các nhân vật, thậm chí cả thế giới, của riêng bạn.
 
 Để biết các công cụ và sản phẩm khác giúp bạn tạo nhân vật của riêng mình, hãy truy cập DungeonsandDragons.com. Ở đó bạn sẽ tìm thấy các quy tắc cơ bản của trò chơi miễn phí. Các quy tắc đó cho bạn biết cách tạo nhân vật của riêng mình để bổ sung hoặc thay thế các nhân vật trong bộ sách này, cũng như cách thăng cấp nhân vật vượt quá cấp 5.
 
 Nếu bạn muốn tạo nhiều loại nhân vật hơn hoặc đưa vào cuộc phiêu lưu của mình những quái vật khác, hãy đọc Sổ tay người chơi (Player’s Handbook), Sổ tay quái vật (Monsters Manual) và Hướng dẫn cho Dungeon Master (Dungeon Master’s Guide). Những sách nâng cao này sẽ giới thiệu cho bạn về đa vũ trụ rộng lớn của D&D và là lời mời để bạn tạo các nhân vật và thế giới độc đáo trong đó.
+
+## Sáu Năng lực
+
+Sáu năng lực cung cấp một mô tả nhanh chóng về các đặc điểm thể chất và tinh thần của mọi nhân vật và quái vật:
+
+<ul>
+  <li>Strength, Sức mạnh, đo lường sức mạnh thể chất</li>
+  <li>Dexterity, Khéo léo, đo lường sự nhanh nhẹn</li>
+  <li>Constitution, thước đo sức chịu đựng</li>
+  <li>Intelligence, Trí thông minh, đo lường lý luận và trí nhớ</li>
+  <li>Wisdom, Khôn ngoan, đo lường nhận thức và sự khôn ngoan</li>
+  <li>Charisma, Thần thái, thước đo nhân cách</li>
+</ul>
+
+Bạn là một nhân vật cơ bắp và thông thái? Xinh đẹp và quyến rũ? Nhanh nhẹn và khỏe mạnh? Đối với mỗi năng lực trong số sáu năng lực này, một nhân vật hoặc quái vật có một điểm năng lực (ability score) để đo lường nó, thường nằm trong khoảng từ 3 đến 18. Một nhà thám hiểm có thể có điểm cao tới 20. Một quái vật có thể có điểm cao tới 30.
+
+Chức năng quan trọng nhất của điểm năng lực là cung cấp chỉ số điều chỉnh (modifier), thường dao động từ −1 (đối với điểm 8 hoặc 9) đến +4 (đối với điểm 18). Modifier này sẽ được áp dụng cho các lần kiểm tra năng lực (ability check), thoát hiểm (saving throw) và tấn công (attack roll), như được giải thích trong các phần tiếp theo.
+
+<strong>ĐIỂM NĂNG LỰC VÀ CHỈ SỐ ĐIỀU CHỈNH (ABILITY SCORE VÀ MODIFIER)</strong>
+| Điểm  | Điều chỉnh | Điểm  | Điều chỉnh |
+|-------|------------|-------|------------|
+| 1     | -5         | 16-17 | +3         |
+| 2-3   | -4         | 18-19 | +4         |
+| 4-5   | -3         | 20-21 | +5         |
+| 6-7   | -2         | 22-23 | +6         |
+| 8-9   | -1         | 24-25 | +7         |
+| 10-11 | +0         | 26-27 | +8         |
+| 12-13 | +1         | 28-29 | +9         |
+| 14-15 | +2         | 30    | +10        |
