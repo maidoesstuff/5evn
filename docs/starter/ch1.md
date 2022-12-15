@@ -138,7 +138,7 @@ Nếu hoàn cảnh khiến cho một lượt tung có cả lợi thế và bất
 
 Khi bạn gặp thuận lợi hoặc bất lợi và điều gì đó trong trò chơi, chẳng hạn như đặc điểm May mắn của tộc halfling cho phép bạn gieo lại d20, bạn chỉ có thể gieo lại một viên xúc xắc. Bạn có thể chọn dùng cái nào. Ví dụ: nếu một halfling có lợi thế trong ability check và đổ được 1 và 13, thì halfling này sẽ có thể sử dụng đặc điểm May mắn để đổ lại số 1 này.
 
-### ABILITY CHECK
+### Ability Check
 
 Ability check kiểm tra năng lực bẩm sinh kèm rèn luyện của một nhân vật hoặc quái vật trong nỗ lực vượt qua thử thách. DM yêu cầu đổ ability check khi một nhân vật hoặc quái vật cố gắng thực hiện một hành động (không phải tấn công) mà có khả năng thất bại. Một nhân vật có thể thực hiện Strength check để mở cửa, Intelligence check để tìm ra manh mối hoặc Wisdom check để nhận thấy goblin đang phục kích dọc đường. Khi kết quả không chắc chắn, xúc xắc xác định kết quả.
 
@@ -147,12 +147,11 @@ Ability check kiểm tra năng lực bẩm sinh kèm rèn luyện của một nh
  Nếu tổng bằng hoặc vượt quá DC, ability check thành công. Nếu không, check không thành công, có nghĩa là nhân vật hoặc quái vật không đạt được mục tiêu hoặc tiếp tục với một setback do DM xác định.
 Thông thường, sách phiêu lưu sẽ cho DM biết loại check mà một nhân vật có thể thực hiện, DC của check và điều gì xảy ra nếu nhân vật thành công hay thất bại. Tuy nhiên, vì các nhân vật thường thử những điều không thể đoán trước, nên sách phiêu lưu cũng đưa ra lời khuyên để giúp DM quyết định sử dụng loại ability check nào và DC trong mỗi tình huống cụ thể.
 
-### Điểm cộng Thành thạo (PROFICIENCY BONUS)
+### Điểm cộng Thành thạo (Proficiency Bonus)
 
 Bạn có thể đặc biệt thành thạo một loại nhiệm vụ nhất định liên quan đến một kỹ năng nhất định. Các bảng nhân vật sẽ liệt kê mức độ thành thạo của từng nhân vật với các kỹ năng và công cụ đặc biệt, đồng thời thông tin về quái vật trong cuốn sách phiêu lưu cũng cho biết mức độ thành thạo của quái vật. Nếu bạn thành thạo một kỹ năng, chẳng hạn như Nhào lộn (Acrobatics) hoặc Đánh lừa (Deception) (được giải thích thêm bên dưới), bạn sẽ thêm điểm cộng thành thạo của mình vào các ability check mà bạn thực hiện khi sử dụng kỹ năng đó. Nếu bạn thành thạo một công cụ nhất định, chẳng hạn như bộ dụng cụ của trộm hoặc dụng cụ của thợ xây, bạn sẽ thêm điểm thành thạo của mình vào các ability check mà bạn thực hiện khi sử dụng những công cụ đó. Bạn không bao giờ được thêm điểm thông thạo của mình hơn một lần vào cùng mỗi lần đổ d20.
 
-### TRANH ĐẤU
-
+### Giao tranh
 
 Đôi khi nỗ lực của một nhân vật hoặc quái vật đối lập trực tiếp với nỗ lực của người khác. Điều này có thể xảy ra khi cả hai cùng cố gắng làm một việc và chỉ một người có thể thành công, chẳng hạn như cố gắng giật lấy chiếc nhẫn ma thuật rơi trên sàn. Tình huống này cũng áp dụng khi một trong số họ đang cố gắng ngăn cản người kia hoàn thành mục tiêu—ví dụ: khi một con quái vật cố mở cánh cửa mà một nhà thám hiểm đang đóng chặt. Trong những tình huống như thế này, kết quả được xác định bằng một hình thức ability check đặc biệt, được gọi là tranh đấu.
 
