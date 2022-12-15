@@ -175,3 +175,96 @@ Ví dụ: nếu một nhân vật cố gắng leo lên một vách đá nguy hi�
 
 Chỉ số strength đo lường sức mạnh cơ thể, độ rèn luyện thể thao và mức độ bạn có thể sử dụng sức mạnh thể chất thô. Strength check có thể quyết định bất kỳ nỗ lực nào để nâng, đẩy, kéo hoặc phá vỡ thứ gì đó, để đẩy cơ thể bạn qua một khoảng trống hoặc áp dụng vũ lực vào một tình huống bất kỳ. Athletics phản ánh năng khiếu trong một số loại Strength check nhất định. 
 
+<i><strong>Athletics.</strong></i> Strength (Athletics) check của bạn bao gồm các tình huống khó khăn mà bạn gặp phải khi leo núi, nhảy hoặc bơi lội. Ví dụ bao gồm các hoạt động sau:
+
+<ul>
+  <li>Bạn cố gắng leo lên một vách đá dựng đứng hoặc trơn trượt, tránh các mối nguy hiểm khi trèo tường hoặc bám vào một bề mặt trong khi có thứ gì đó đang cố hất bạn ra.</li>
+  <li>Bạn cố gắng nhảy một khoảng cách xa bất thường hoặc thực hiện một động tác giữa cú nhảy.</li>
+<li>Bạn gặp khó khăn khi bơi hoặc nổi trong những dòng chảy nguy hiểm, những con sóng có bão hoặc những khu vực có rong biển dày. Hoặc một sinh vật khác cố đẩy hoặc kéo bạn dưới nước hoặc cản trở việc bơi của bạn.</li>
+  </ul>
+  
+#### DEXTERITY CHECK
+
+Chỉ số dexterity đo lường sự nhanh nhẹn, phản xạ và năng lực giữ thăng bằng. Một dexterity check có thể quyết định bất kỳ nỗ lực nào để di chuyển nhanh nhẹn, nhanh chóng, lặng lẽ hoặc để không bị ngã trên một mặt phẳng khó di chuyển. Các kỹ năng Nhào lộn (Acrobatics), Độ khéo tay (Sleight of Hand) và Ẩn mình (Stealth) phản ánh năng khiếu trong một số loại Dexterity check nhất định.
+
+<i><strong>Acrobatics.</strong></i> Dexterity (Acrobatics) check của bạn bao gồm việc bạn cố gắng đứng vững trong một tình huống khó khăn, chẳng hạn như khi bạn đang cố gắng chạy qua một mảng băng, giữ thăng bằng trên dây hoặc đứng thẳng trên boong tàu đang bập bênh. DM cũng có thể yêu cầu Dexterity (Acrobatics) check để xem liệu bạn có thể thực hiện được các pha nhào lộn nguy hiểm hay không, bao gồm lặn, lăn, nhào lộn và bật người.
+
+<i><strong>Sleight of Hand.</strong></i> Bất cứ khi nào bạn cố gắng thực hiện một chiêu trò lừa gạt hoặc ngòn bịp bằng tay, chẳng hạn như đặt thứ gì đó lên người khác hoặc giấu một đồ vật trên người của bạn, đổ Dexterity (Sleight of Hand) check. DM cũng có thể yêu cầu Dexterity (Sleight of Hand) check để xác định xem bạn có thể thó ví từ người khác hoặc lấy thứ gì đó ra khỏi túi của người khác hay không.
+
+<i><strong>Stealth.</strong></i> Đổ Dexterity (Stealth) check khi bạn cố gắng che giấu bản thân khỏi kẻ thù, lách qua lính canh, chuồn đi mà không bị chú ý hoặc lẻn đến sau lưng ai đó mà không bị nhìn thấy hoặc nghe thấy.
+
+<strong>Ẩn nấp và Tầm nhìn</strong>
+
+Khi bạn muốn nấp, đổ Dexterity (Stealth) check. Cho đến khi bạn bị phát hiện hoặc bạn ngừng ẩn nấp, tổng số của lần đổ đó sẽ tranh đấu với Wisdom (Perception) check của bất kỳ sinh vật nào đang chủ động tìm kiếm dấu hiệu hiện diện của bạn.
+
+Bạn không thể nấp khỏi một sinh vật có thể nhìn thấy bạn và nếu bạn gây ồn (chẳng hạn như hét lên cảnh báo hoặc làm đổ bình hoa), bạn sẽ để lộ vị trí của mình. Một sinh vật tàng hình không thể nhìn thấy, vì vậy nó luôn có thể cố gắng nấp. Tuy nhiên, các dấu hiệu về việc nó đi qua vẫn có thể được chú ý và vì vậy nó vẫn phải giữ im lặng.
+
+<i><strong>Perception Thụ động (Passive Perception).</strong></i> Khi bạn ẩn nấp, có năng lực ai đó sẽ chú ý đến bạn ngay cả khi họ không chủ động tìm kiếm bạn. Để xác định xem một sinh vật như vậy có chú ý đến bạn hay không, DM so sánh Dexterity (Stealth) của bạn với passive Wisdom (Perception) của sinh vật đó, được tính bằng 10 + Wisdom modifier của sinh vật đó, cộng thêm bất kỳ điểm cộng hoặc trừ nào khác. Nếu sinh vật có lợi thế, cộng 5. Còn nếu bất lợi, trừ 5.
+
+Ví dụ: nếu một nhân vật cấp 1 (với điểm cộng proficiency +2) có Wisdom 15 (modifier +2) và Perception proficiency, thì người đó có passive Wisdom (Perception) là 14.
+
+<i><strong>Bạn có thể nhìn thấy gì?</strong></i> Một trong những yếu tố chính quyết định liệu bạn có thể tìm thấy sinh vật hoặc vật thể ẩn hay không là mức độ bạn có thể nhìn thấy trong một khu vực, mà có thể bị che khuất nhẹ hoặc nặng. Trong một khu vực bị **che khuất nhẹ** — chẳng hạn như ánh sáng mờ, sương mù loang lổ hoặc lá cây che chắn vừa phải — các sinh vật gặp bất lợi trong Wisdom (Perception) check dựa vào thị giác. Trong một khu vực bị **che khuất nhiều**—chẳng hạn như bóng tối, sương mù mờ đục hoặc cây cối rậm rạp—tầm nhìn sẽ bị cản trở, gây ra tình trạng mù lòa (blinded), như được giải thích trong phần Phụ lục.
+
+#### CONSTITUTION CHECK
+
+Chỉ số Constitution đo lường sức khỏe, sức chịu đựng và năng lượng sống. Constitution check không phổ biến lắm và không có kỹ năng nào cho Constitution check, bởi vì độ bền mà năng lực này thể hiện phần lớn là thụ động, thay vì liên quan đến một hành động cụ thể của nhân vật hoặc quái vật. Tuy nhiên, một Constitution check vẫn có thể mô phỏng nỗ lực của bạn để vượt qua các giới hạn cơ thể bình thường.
+
+#### INTELLIGENCE CHECK
+
+Chỉ số Intelligence đo lường sự nhạy bén về tinh thần, năng lực nhớ lại và năng lực suy luận. Một Intelligence check được gọi khi bạn cần làm điều gì dựa trên logic, trình độ học vấn, trí nhớ hoặc năng lực suy luận. Các kỹ năng Hiểu biết phép thuật (Arcana), Lịch sử (History), Điều tra (Investigation), Tự nhiên (Nature) và Tôn giáo (Religion) phản ánh năng khiếu trong một số loại Intelligence check nhất định.
+
+***Arcana.*** Intelligence (Arcana) check của bạn đo lường năng lực nhớ lại kiến thức về bùa chú, vật phẩm ma thuật, các biểu tượng kỳ quái, truyền thống ma thuật, các không gian của tồn tại và cư dân của các không gian đó.
+
+***History.*** Intelligence (History) check của bạn đo năng lực nhớ lại truyền thuyết về các sự kiện lịch sử, các nhân vật huyền thoại, vương quốc cổ đại, những tranh chấp trong quá khứ, những cuộc chiến tranh gần đây và các nền văn minh đã mất.
+
+***Investigation.*** Khi bạn tìm kiếm manh mối xung quanh và suy luận dựa trên những manh mối đó, bạn cần đổ một Intelligence (Investigation) check. Bạn có thể suy ra vị trí của một vật thể bị giấu, từ vẻ ngoài của vết thương mà suy ra loại vũ khí nào đã gây ra nó hoặc xác định điểm yếu nhất trong đường hầm có thể khiến nó bị sập. Việc nghiền ngẫm những cuộn giấy cổ xưa để tìm một mảnh kiến thức ẩn khuất cũng có thể yêu cầu Intelligence (Investigation).
+
+***Nature.*** Intelligence (Nature) check của bạn đo lường năng lực nhớ lại kiến thức về địa hình, thực vật và động vật, thời tiết và các chu kỳ tự nhiên của bạn.
+
+***Religion.*** Intelligence (Religion) check đánh giá năng lực bạn nhớ lại truyền thuyết về các vị thần, nghi thức và lời cầu nguyện, các thứ bậc tôn giáo, biểu tượng tôn giáo và nghi lễ của các giáo phái kín.
+
+#### WISDOM CHECK
+
+Wisdom phản ánh mức độ hòa hợp của bạn với thế giới xung quanh, năng lực nhận thức và trực giác của bạn. Wisdom check có thể cho biết nỗ lực đọc ngôn ngữ cơ thể, hiểu cảm xúc của ai đó, chú ý đến những điều về môi trường xung quanh hoặc chăm sóc người bị thương. Các kỹ năng Xử lý Động vật (Animal Handling), Sáng suốt (Insight), Y học (Medicine), Nhận thức (Perception) và Sinh tồn (Survival) phản ánh năng khiếu trong một số loại Wisdom check nhất định.
+
+***Animal Handling.*** Khi có bất kỳ câu hỏi nào về việc liệu bạn có thể trấn an một con vật đã thuần hóa hay không, giữ cho thú cưỡi không bị hoảng sợ hay đoán được ý định của một con vật, DM có thể yêu cầu Wisdom (Animal Handling) check. Bạn cũng cần đổ Wisdom (Animal Handling) check để điều khiển thú cưỡi của mình khi bạn muốn thực hiện một thao tác mạo hiểm nào đó.
+
+***Insight.*** Wisdom (Insight) check của bạn quyết định liệu bạn có thể xác định được ý định thực sự của một sinh vật hay không, chẳng hạn như tìm ra lời nói dối hoặc dự đoán hành động tiếp theo của ai đó. Hành động này liên quan đến việc thu thập manh mối từ ngôn ngữ cơ thể, thói quen nói năng và những thay đổi trong cách cư xử của họ.
+
+***Medicine.*** Wisdom (Medicine) check cho phép bạn cố gắng ổn định người đang hấp hối hoặc chẩn đoán bệnh.
+
+***Perception.*** Wisdom (Perception) check cho phép bạn nhìn ra, nghe hoặc cảm nhận sự hiện diện của một thứ gì đó. Nó đo lường nhận thức chung của bạn về môi trường xung quanh và sự nhạy bén của các giác quan. Ví dụ, bạn có thể thử nghe một cuộc trò chuyện qua cánh cửa đóng, nghe lén dưới cửa sổ đang mở hoặc nghe thấy quái vật di chuyển lén lút trong rừng. Hoặc bạn có thể cố gắng phát hiện những thứ bị che khuất hoặc dễ bỏ sót, cho dù đó là bọn Orc đang phục kích trên đường, bọn côn đồ ẩn nấp trong bóng tối của một con hẻm hay ánh nến dưới cánh cửa bí mật đóng kín.
+
+***Survival.*** DM có thể yêu cầu bạn đổ Wisdom (Survival) check để lần theo dấu vết, săn thú, hướng dẫn nhóm của bạn qua những vùng đất hoang tàn băng giá, xác định các dấu hiệu cho thấy gấu cú sống gần đó, dự đoán thời tiết hoặc tránh cát lún và các mối nguy hiểm tự nhiên khác.
+
+
+#### CHARISMA CHECK
+
+Charisma đo lường năng lực tương tác của bạn với người khác. Nó bao gồm các yếu tố như sự tự tin và tài hùng biện. Charisma check có thể phát sinh khi bạn cố gắng gây ảnh hưởng hoặc mua vui cho người khác, khi bạn cố gắng tạo ấn tượng hoặc nói dối một cách thuyết phục, hoặc khi bạn đang ở trong một tình huống xã hội khó nhằn. Các kỹ năng Lừa dối (Deception), Đe dọa (Intimidation), Trình diễn (Performance) và Thuyết phục (Persuasion) phản ánh năng khiếu trong một số loại Charisma check nhất định.
+
+***Deception.*** Charisma (Deception) check của bạn xác định xem bạn có thể che giấu sự thật một cách thuyết phục hay không, bằng lời nói hoặc thông qua hành động. Hành động lừa dối này có thể bao gồm mọi thứ, từ  mơ hồ dẫn người khác lạc lối cho đến nói dối trắng trợn. Các tình huống điển hình bao gồm cố gắng ăn nói lưu loát mà lừa lính canh, gạt một thương gia, kiếm tiền thông qua cờ bạc, giả dạng và cải trang, hứa lèo để làm giảm độ nghi ngờ của ai đó hoặc giữ mặt lạnh trong khi đang nói dối trắng trợn.
+
+***Intimidation.*** Khi bạn cố gắng gây ảnh hưởng đến ai đó bằng cách đe dọa công khai, có hành động thù địch và vũ lực, DM có thể yêu cầu bạn đổ Charisma (Intimidation) check. Các ví dụ bao gồm cố gắng moi thông tin từ một tù nhân, thuyết phục những tên côn đồ rút lui trong một cuộc đối đầu hoặc dùng một cái chai vỡ sắc nhọn để thuyết phục một viên quan đang cười nhạo bạn xem xét lại quyết định.
+
+***Performance.*** Charisma (Performance) check  của bạn xác định mức độ bạn có thể làm hài lòng khán giả bằng âm nhạc, nhảy múa, diễn xuất, kể chuyện hoặc một số hình thức giải trí khác.
+
+***Persuasion.*** Khi bạn cố gắng gây ảnh hưởng đến một người hoặc một nhóm người bằng sự tế nhị, duyên dáng uyển chuyển trong giao thiệp, hoặc chỉ với bản chất tốt, DM có thể yêu cầu bạn đổ Charisma (Persuasion) check. Thông thường, bạn sẽ dùng năng lực thuyết phục khi có hành động thiện chí, muốn thúc đẩy tình hữu hảo, đưa ra một yêu cầu thân thiện hoặc thể hiện phép xã giao phù hợp. Ví dụ về việc thuyết phục người khác bao gồm thuyết phục thị thần cho phép nhóm của bạn gặp nhà vua, đàm phán hòa bình giữa các bộ lạc đang gây chiến với hoặc truyền cảm hứng cho một đám đông người dân trong thị trấn.
+
+#### SAVING THROW
+
+Một saving throw, hoặc save, thể hiện nỗ lực chống lại hoặc tránh một câu thần chú, một cái bẫy, chất độc, một căn bệnh hoặc một mối đe dọa tương tự. Bạn thường không thể tự quyết định đổ saving throw; bạn sẽ bị buộc phải làm như vậy khi nhân vật hoặc quái vật của bạn có nguy cơ bị hại.
+
+Để đổ saving throw, đổ d20 và thêm modifier thích hợp. Ví dụ: bạn sẽ dùng Dexterity modifier cho một Dexterity saving throw.
+Một saving throw có thể được thêm điểm hoặc trừ tùy tình huống và có thể bị ảnh hưởng bởi lợi thế và bất lợi, tùy DM xác định.
+
+Bảng nhân vật cho biết proficiency trong saving throw của mỗi nhân vật. Tương tự proficiency trong kỹ năng, mức độ thành thạo trong một saving throw cho phép nhân vật thêm điểm proficiency của mình vào những cú saving throw được thực hiện bằng cách sử dụng một năng lực cụ thể. Một số quái vật cũng có proficiency với saving throw.
+
+Độ khó (DC) của một cú saving throw được xác định bởi thứ gây ra nó. Ví dụ: khi một câu thần chú cho phép thực hiện một saving throw, DC cho saving throw đó được xác định bởi năng lực thi triển phép thuật và điểm cộng proficiency của người dùng phép.
+
+Kết quả của một saving throw thành công hay thất bại cũng sẽ được ghi chi tiết trong hiệu ứng buộc phải đổ save. Thông thường, saving throw thành công có nghĩa là nhân vật hoặc quái vật không bị tổn hại hoặc giảm tác hại do hiệu ứng.
+
+**Tìm đồ vật ẩn giấu**
+
+Khi nhân vật của bạn muốn tìm kiếm một vật ẩn, chẳng hạn như một cánh cửa bí mật hoặc một cái bẫy, DM thường yêu cầu bạn đổ Wisdom (Perception) check. Lần đổ này có thể được sử dụng để tìm các chi tiết ẩn giấu hoặc các thông tin và manh mối khác mà bạn có thể bỏ qua.
+
+Trong hầu hết các trường hợp, bạn cần mô tả nơi bạn đang tìm kiếm để DM xác định cơ hội thành công của bạn. Ví dụ, một chiếc chìa khóa được giấu bên dưới một bộ quần áo được gấp lại trong ngăn kéo trên cùng của bàn giấy. Nếu bạn nói với DM rằng bạn đi quanh phòng, nhìn vào tường và đồ đạc để tìm manh mối, bạn sẽ không có cơ hội tìm thấy chìa khóa, bất kể kết quả Wisdom (Perception) check của bạn có như thế nào. Bạn cần phải nói rõ rằng bạn đang mở hết các ngăn kéo hoặc lục soát văn phòng để có cơ hội thành công.
