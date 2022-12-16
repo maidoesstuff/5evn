@@ -182,7 +182,8 @@ Chỉ số strength đo lường sức mạnh cơ thể, độ rèn luyện th�
   <li>Bạn cố gắng nhảy một khoảng cách xa bất thường hoặc thực hiện một động tác giữa cú nhảy.</li>
 <li>Bạn gặp khó khăn khi bơi hoặc nổi trong những dòng chảy nguy hiểm, những con sóng có bão hoặc những khu vực có rong biển dày. Hoặc một sinh vật khác cố đẩy hoặc kéo bạn dưới nước hoặc cản trở việc bơi của bạn.</li>
   </ul>
-  
+ 
+ 
 #### DEXTERITY CHECK
 
 Chỉ số dexterity đo lường sự nhanh nhẹn, phản xạ và năng lực giữ thăng bằng. Một dexterity check có thể quyết định bất kỳ nỗ lực nào để di chuyển nhanh nhẹn, nhanh chóng, lặng lẽ hoặc để không bị ngã trên một mặt phẳng khó di chuyển. Các kỹ năng Nhào lộn (Acrobatics), Độ khéo tay (Sleight of Hand) và Ẩn mình (Stealth) phản ánh năng khiếu trong một số loại Dexterity check nhất định.
