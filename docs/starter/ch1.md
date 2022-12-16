@@ -99,6 +99,7 @@ Bạn là một nhân vật cơ bắp và thông thái? Xinh đẹp và quyến 
 Chức năng quan trọng nhất của điểm năng lực là cung cấp chỉ số điều chỉnh (modifier), thường dao động từ −1 (đối với điểm 8 hoặc 9) đến +4 (đối với điểm 18). Modifier này sẽ được áp dụng cho các lần kiểm tra năng lực (ability check), thoát hiểm (saving throw) và tấn công (attack roll), như được giải thích trong các phần tiếp theo.
 
 <strong>ĐIỂM NĂNG LỰC VÀ CHỈ SỐ ĐIỀU CHỈNH (ABILITY SCORE VÀ MODIFIER)</strong>
+
 | Điểm  | Điều chỉnh | Điểm  | Điều chỉnh |
 |-------|------------|-------|------------|
 | 1     | -5         | 16-17 | +3         |
