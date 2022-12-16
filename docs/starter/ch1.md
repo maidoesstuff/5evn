@@ -177,11 +177,10 @@ Chỉ số strength đo lường sức mạnh cơ thể, độ rèn luyện th�
 
 <i><strong>Athletics.</strong></i> Strength (Athletics) check của bạn bao gồm các tình huống khó khăn mà bạn gặp phải khi leo núi, nhảy hoặc bơi lội. Ví dụ bao gồm các hoạt động sau:
 
-<ul>
-  <li>Bạn cố gắng leo lên một vách đá dựng đứng hoặc trơn trượt, tránh các mối nguy hiểm khi trèo tường hoặc bám vào một bề mặt trong khi có thứ gì đó đang cố hất bạn ra.</li>
-  <li>Bạn cố gắng nhảy một khoảng cách xa bất thường hoặc thực hiện một động tác giữa cú nhảy.</li>
-<li>Bạn gặp khó khăn khi bơi hoặc nổi trong những dòng chảy nguy hiểm, những con sóng có bão hoặc những khu vực có rong biển dày. Hoặc một sinh vật khác cố đẩy hoặc kéo bạn dưới nước hoặc cản trở việc bơi của bạn.</li>
-  </ul>
+
+ * Bạn cố gắng leo lên một vách đá dựng đứng hoặc trơn trượt, tránh các mối nguy hiểm khi trèo tường hoặc bám vào một bề mặt trong khi có thứ gì đó đang cố hất bạn ra.
+ * Bạn cố gắng nhảy một khoảng cách xa bất thường hoặc thực hiện một động tác giữa cú nhảy.
+* Bạn gặp khó khăn khi bơi hoặc nổi trong những dòng chảy nguy hiểm, những con sóng có bão hoặc những khu vực có rong biển dày. Hoặc một sinh vật khác cố đẩy hoặc kéo bạn dưới nước hoặc cản trở việc bơi của bạn.
  
  
 #### DEXTERITY CHECK
