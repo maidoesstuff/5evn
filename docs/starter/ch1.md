@@ -85,20 +85,18 @@ Nếu bạn muốn tạo nhiều loại nhân vật hơn hoặc đưa vào cuộ
 
 Sáu năng lực cung cấp một mô tả nhanh chóng về các đặc điểm thể chất và tinh thần của mọi nhân vật và quái vật:
 
-<ul>
-  <li>Strength, Sức mạnh, đo lường sức mạnh thể chất</li>
-  <li>Dexterity, Khéo léo, đo lường sự nhanh nhẹn</li>
-  <li>Constitution, thước đo sức chịu đựng</li>
-  <li>Intelligence, Trí thông minh, đo lường lý luận và trí nhớ</li>
-  <li>Wisdom, Khôn ngoan, đo lường nhận thức và sự khôn ngoan</li>
-  <li>Charisma, Thần thái, thước đo nhân cách</li>
-</ul>
+* Strength, Sức mạnh, đo lường sức mạnh thể chất
+* Dexterity, Khéo léo, đo lường sự nhanh nhẹn
+* Constitution, thước đo sức chịu đựng
+* Intelligence, Trí thông minh, đo lường lý luận và trí nhớ
+* Wisdom, Khôn ngoan, đo lường nhận thức và sự khôn ngoan
+* Charisma, Thần thái, thước đo nhân cách
 
 Bạn là một nhân vật cơ bắp và thông thái? Xinh đẹp và quyến rũ? Nhanh nhẹn và khỏe mạnh? Đối với mỗi năng lực trong số sáu năng lực này, một nhân vật hoặc quái vật có một điểm năng lực (ability score) để đo lường nó, thường nằm trong khoảng từ 3 đến 18. Một nhà thám hiểm có thể có điểm cao tới 20. Một quái vật có thể có điểm cao tới 30.
 
 Chức năng quan trọng nhất của điểm năng lực là cung cấp chỉ số điều chỉnh (modifier), thường dao động từ −1 (đối với điểm 8 hoặc 9) đến +4 (đối với điểm 18). Modifier này sẽ được áp dụng cho các lần kiểm tra năng lực (ability check), thoát hiểm (saving throw) và tấn công (attack roll), như được giải thích trong các phần tiếp theo.
 
-<strong>ĐIỂM NĂNG LỰC VÀ CHỈ SỐ ĐIỀU CHỈNH (ABILITY SCORE VÀ MODIFIER)</strong>
+**ĐIỂM NĂNG LỰC VÀ CHỈ SỐ ĐIỀU CHỈNH (ABILITY SCORE VÀ MODIFIER)**
 
 | Điểm  | Điều chỉnh | Điểm  | Điều chỉnh |
 |-------|------------|-------|------------|
@@ -175,7 +173,7 @@ Ví dụ: nếu một nhân vật cố gắng leo lên một vách đá nguy hi�
 
 Chỉ số strength đo lường sức mạnh cơ thể, độ rèn luyện thể thao và mức độ bạn có thể sử dụng sức mạnh thể chất thô. Strength check có thể quyết định bất kỳ nỗ lực nào để nâng, đẩy, kéo hoặc phá vỡ thứ gì đó, để đẩy cơ thể bạn qua một khoảng trống hoặc áp dụng vũ lực vào một tình huống bất kỳ. Athletics phản ánh năng khiếu trong một số loại Strength check nhất định. 
 
-<i><strong>Athletics.</strong></i> Strength (Athletics) check của bạn bao gồm các tình huống khó khăn mà bạn gặp phải khi leo núi, nhảy hoặc bơi lội. Ví dụ bao gồm các hoạt động sau:
+***Athletics.*** Strength (Athletics) check của bạn bao gồm các tình huống khó khăn mà bạn gặp phải khi leo núi, nhảy hoặc bơi lội. Ví dụ bao gồm các hoạt động sau:
 
 
  * Bạn cố gắng leo lên một vách đá dựng đứng hoặc trơn trượt, tránh các mối nguy hiểm khi trèo tường hoặc bám vào một bề mặt trong khi có thứ gì đó đang cố hất bạn ra.
@@ -187,23 +185,23 @@ Chỉ số strength đo lường sức mạnh cơ thể, độ rèn luyện th�
 
 Chỉ số dexterity đo lường sự nhanh nhẹn, phản xạ và năng lực giữ thăng bằng. Một dexterity check có thể quyết định bất kỳ nỗ lực nào để di chuyển nhanh nhẹn, nhanh chóng, lặng lẽ hoặc để không bị ngã trên một mặt phẳng khó di chuyển. Các kỹ năng Nhào lộn (Acrobatics), Độ khéo tay (Sleight of Hand) và Ẩn mình (Stealth) phản ánh năng khiếu trong một số loại Dexterity check nhất định.
 
-<i><strong>Acrobatics.</strong></i> Dexterity (Acrobatics) check của bạn bao gồm việc bạn cố gắng đứng vững trong một tình huống khó khăn, chẳng hạn như khi bạn đang cố gắng chạy qua một mảng băng, giữ thăng bằng trên dây hoặc đứng thẳng trên boong tàu đang bập bênh. DM cũng có thể yêu cầu Dexterity (Acrobatics) check để xem liệu bạn có thể thực hiện được các pha nhào lộn nguy hiểm hay không, bao gồm lặn, lăn, nhào lộn và bật người.
+***Acrobatics.*** Dexterity (Acrobatics) check của bạn bao gồm việc bạn cố gắng đứng vững trong một tình huống khó khăn, chẳng hạn như khi bạn đang cố gắng chạy qua một mảng băng, giữ thăng bằng trên dây hoặc đứng thẳng trên boong tàu đang bập bênh. DM cũng có thể yêu cầu Dexterity (Acrobatics) check để xem liệu bạn có thể thực hiện được các pha nhào lộn nguy hiểm hay không, bao gồm lặn, lăn, nhào lộn và bật người.
 
-<i><strong>Sleight of Hand.</strong></i> Bất cứ khi nào bạn cố gắng thực hiện một chiêu trò lừa gạt hoặc ngòn bịp bằng tay, chẳng hạn như đặt thứ gì đó lên người khác hoặc giấu một đồ vật trên người của bạn, đổ Dexterity (Sleight of Hand) check. DM cũng có thể yêu cầu Dexterity (Sleight of Hand) check để xác định xem bạn có thể thó ví từ người khác hoặc lấy thứ gì đó ra khỏi túi của người khác hay không.
+***Sleight of Hand.*** Bất cứ khi nào bạn cố gắng thực hiện một chiêu trò lừa gạt hoặc ngòn bịp bằng tay, chẳng hạn như đặt thứ gì đó lên người khác hoặc giấu một đồ vật trên người của bạn, đổ Dexterity (Sleight of Hand) check. DM cũng có thể yêu cầu Dexterity (Sleight of Hand) check để xác định xem bạn có thể thó ví từ người khác hoặc lấy thứ gì đó ra khỏi túi của người khác hay không.
 
-<i><strong>Stealth.</strong></i> Đổ Dexterity (Stealth) check khi bạn cố gắng che giấu bản thân khỏi kẻ thù, lách qua lính canh, chuồn đi mà không bị chú ý hoặc lẻn đến sau lưng ai đó mà không bị nhìn thấy hoặc nghe thấy.
+***Stealth.*** Đổ Dexterity (Stealth) check khi bạn cố gắng che giấu bản thân khỏi kẻ thù, lách qua lính canh, chuồn đi mà không bị chú ý hoặc lẻn đến sau lưng ai đó mà không bị nhìn thấy hoặc nghe thấy.
 
-<strong>Ẩn nấp và Tầm nhìn</strong>
+**Ẩn nấp và Tầm nhìn**
 
 Khi bạn muốn nấp, đổ Dexterity (Stealth) check. Cho đến khi bạn bị phát hiện hoặc bạn ngừng ẩn nấp, tổng số của lần đổ đó sẽ tranh đấu với Wisdom (Perception) check của bất kỳ sinh vật nào đang chủ động tìm kiếm dấu hiệu hiện diện của bạn.
 
 Bạn không thể nấp khỏi một sinh vật có thể nhìn thấy bạn và nếu bạn gây ồn (chẳng hạn như hét lên cảnh báo hoặc làm đổ bình hoa), bạn sẽ để lộ vị trí của mình. Một sinh vật tàng hình không thể nhìn thấy, vì vậy nó luôn có thể cố gắng nấp. Tuy nhiên, các dấu hiệu về việc nó đi qua vẫn có thể được chú ý và vì vậy nó vẫn phải giữ im lặng.
 
-<i><strong>Perception Thụ động (Passive Perception).</strong></i> Khi bạn ẩn nấp, có năng lực ai đó sẽ chú ý đến bạn ngay cả khi họ không chủ động tìm kiếm bạn. Để xác định xem một sinh vật như vậy có chú ý đến bạn hay không, DM so sánh Dexterity (Stealth) của bạn với passive Wisdom (Perception) của sinh vật đó, được tính bằng 10 + Wisdom modifier của sinh vật đó, cộng thêm bất kỳ điểm cộng hoặc trừ nào khác. Nếu sinh vật có lợi thế, cộng 5. Còn nếu bất lợi, trừ 5.
+***Perception Thụ động (Passive Perception).*** Khi bạn ẩn nấp, có năng lực ai đó sẽ chú ý đến bạn ngay cả khi họ không chủ động tìm kiếm bạn. Để xác định xem một sinh vật như vậy có chú ý đến bạn hay không, DM so sánh Dexterity (Stealth) của bạn với passive Wisdom (Perception) của sinh vật đó, được tính bằng 10 + Wisdom modifier của sinh vật đó, cộng thêm bất kỳ điểm cộng hoặc trừ nào khác. Nếu sinh vật có lợi thế, cộng 5. Còn nếu bất lợi, trừ 5.
 
 Ví dụ: nếu một nhân vật cấp 1 (với điểm cộng proficiency +2) có Wisdom 15 (modifier +2) và Perception proficiency, thì người đó có passive Wisdom (Perception) là 14.
 
-<i><strong>Bạn có thể nhìn thấy gì?</strong></i> Một trong những yếu tố chính quyết định liệu bạn có thể tìm thấy sinh vật hoặc vật thể ẩn hay không là mức độ bạn có thể nhìn thấy trong một khu vực, mà có thể bị che khuất nhẹ hoặc nặng. Trong một khu vực bị **che khuất nhẹ** — chẳng hạn như ánh sáng mờ, sương mù loang lổ hoặc lá cây che chắn vừa phải — các sinh vật gặp bất lợi trong Wisdom (Perception) check dựa vào thị giác. Trong một khu vực bị **che khuất nhiều**—chẳng hạn như bóng tối, sương mù mờ đục hoặc cây cối rậm rạp—tầm nhìn sẽ bị cản trở, gây ra tình trạng mù lòa (blinded), như được giải thích trong phần Phụ lục.
+***Bạn có thể nhìn thấy gì?*** Một trong những yếu tố chính quyết định liệu bạn có thể tìm thấy sinh vật hoặc vật thể ẩn hay không là mức độ bạn có thể nhìn thấy trong một khu vực, mà có thể bị che khuất nhẹ hoặc nặng. Trong một khu vực bị **che khuất nhẹ** — chẳng hạn như ánh sáng mờ, sương mù loang lổ hoặc lá cây che chắn vừa phải — các sinh vật gặp bất lợi trong Wisdom (Perception) check dựa vào thị giác. Trong một khu vực bị **che khuất nhiều**—chẳng hạn như bóng tối, sương mù mờ đục hoặc cây cối rậm rạp—tầm nhìn sẽ bị cản trở, gây ra tình trạng mù lòa (blinded), như được giải thích trong phần Phụ lục.
 
 #### CONSTITUTION CHECK
 
