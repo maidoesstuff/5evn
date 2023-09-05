@@ -134,7 +134,7 @@ Giáp hạng nặng mang lại khả năng bảo vệ tốt nhất và người 
 #### Khiên
 Khiên làm bằng gỗ hoặc kim loại được cầm trên một tay. Sử dụng một chiếc khiên sẽ tăng Armor Class của bạn lên 2. Bạn chỉ có thể hưởng lợi từ một chiếc khiên một lúc.
 
-### Vũ khí
+## Vũ khí
 Bảng Vũ khí liệt kê các loại vũ khí phổ biến nhất trong thế giới D&D, giá cả và trọng lượng của chúng, cũng như sát thương mà chúng gây ra và bất kỳ thuộc tính đặc biệt nào chúng sở hữu. Mỗi vũ khí được phân loại là cận chiến hoặc tầm xa. Vũ khí **cận chiến** được sử dụng để tấn công mục tiêu trong phạm vi 5 feet tính từ bạn, trong khi vũ khí **tầm xa** được sử dụng để tấn công mục tiêu ở khoảng cách xa.
 
 #### Độ thành thạo vũ khí
