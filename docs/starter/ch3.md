@@ -111,24 +111,20 @@ Ai cũng có thể mặc giáp hoặc đeo khiên. Tuy nhiên, chỉ những ng�
 | Khiên            |           |                  |             |
 | Khiên            | 10 gp     | +2               | 6 lb.       |
 
-* Bạn thêm Dexterity modifier vào Armor Class của mình khi bạn mặc bộ giáp này.
-
-** Bạn thêm Dexterity modifier, tối đa +2, vào Armor Class của mình khi bạn mặc bộ giáp này.
+*Bạn thêm Dexterity modifier vào Armor Class của mình khi bạn mặc bộ giáp này.
+**Bạn thêm Dexterity modifier, tối đa +2, vào Armor Class của mình khi bạn mặc bộ giáp này.
 
 #### Giáp hạng nhẹ
-
 Giáp hạng nhẹ được ưa chuộng bởi rogue vì nó cho phép tận dụng tối đa điểm Dexterity của họ và không cản trở việc di chuyển lén lút. Khi bạn mặc giáp hạng nhẹ, bạn cộng thêm Dexterity modifier theo bảng trên để xác định Armor Class của mình.
 
 **Giáp da** bao gồm các bộ phận bảo vệ ngực và vai làm bằng da cứng, với khả năng bảo vệ nhẹ hơn và linh hoạt hơn cho phần còn lại của cơ thể. **Giáp da đinh tán** được gia cố bằng đinh tán hoặc đinh nhọn.
 
 #### Giáp hạng trung
-
 Giáp hạng trung mang lại khả năng bảo vệ cao hơn giáp nhẹ, nhưng nó cũng cản trở chuyển động hơn. Khi bạn mặc giáp hạng trung, bạn thêm Dexterity modifier của mình, tối đa là +2, vào con số trên bảng để xác định Armor Class của bạn. Nếu Dexterity của bạn là 16 hoặc cao hơn, bạn vẫn chỉ thêm 2.
 
 **Giáp da thuộc** là một loại áo giáp thô sơ được làm từ da và lông thú dày. **Áo xích** được làm từ các vòng kim loại lồng vào nhau và thường được mặc bên dưới quần áo. **Giáp vảy** bao gồm một chiếc áo khoác da và xà cạp được bao phủ bởi các mảnh giáp kim loại chồng lên nhau. Bạn sẽ bị bất lợi khi đổ Dexterity (Stealth) check khi mặc giáp vảy. **Giáp che ngực** là một miếng kim loại vừa vặn ở ngực được đeo bằng da dẻo dai.
 
 #### Giáp hạng nặng
-
 Giáp hạng nặng mang lại khả năng bảo vệ tốt nhất và người mặc nó cần được đào tạo chuyên sâu để đạt được độ thành thạo. Class fighter và cleric thành thạo với nó. Khi bạn mặc giáp nặng, bạn không được cộng Dexterity modifier vào Armor Class của mình. Bạn cũng gặp bất lợi khi đổ Dexterity (Stealth) check.
 
 **Giáp vòng** là giáp da với những chiếc vòng nặng được khâu vào. **Giáp xích** được làm bằng các vòng kim loại lồng vào nhau được đeo trên một lớp vải bông. Nếu Strength của bạn dưới 13, tốc độ của bạn sẽ giảm 10 feet khi bạn đeo giáp xích.
@@ -136,19 +132,15 @@ Giáp hạng nặng mang lại khả năng bảo vệ tốt nhất và người 
 Áo giáp nẹp được làm bằng các dải kim loại hẹp dọc được tán vào một lớp da lót bên ngoài đệm vải. Nếu Strength của bạn thấp hơn 15, tốc độ của bạn sẽ giảm 10 feet khi bạn mặc giáp nẹp.
 
 #### Khiên
-
 Khiên làm bằng gỗ hoặc kim loại được cầm trên một tay. Sử dụng một chiếc khiên sẽ tăng Armor Class của bạn lên 2. Bạn chỉ có thể hưởng lợi từ một chiếc khiên một lúc.
 
 ### Vũ khí
-
 Bảng Vũ khí liệt kê các loại vũ khí phổ biến nhất trong thế giới D&D, giá cả và trọng lượng của chúng, cũng như sát thương mà chúng gây ra và bất kỳ thuộc tính đặc biệt nào chúng sở hữu. Mỗi vũ khí được phân loại là cận chiến hoặc tầm xa. Vũ khí **cận chiến** được sử dụng để tấn công mục tiêu trong phạm vi 5 feet tính từ bạn, trong khi vũ khí **tầm xa** được sử dụng để tấn công mục tiêu ở khoảng cách xa.
 
 #### Độ thành thạo vũ khí
-
 Class của bạn cho phép bạn sử dụng thành thạo một số vũ khí hoặc thể loại vũ khí nhất định. Hai loại chính là **đơn giản** và **võ thuật**. Một số chủng tộc, chẳng hạn như tộc người lùn, cũng cho độ thành thạo vũ khí. Thông thạo vũ khí cho phép bạn thêm điểm thông thạo của mình vào attack roll cho bất kỳ đòn tấn công nào bạn thực hiện bằng vũ khí đó.
 
 #### Thuộc tính vũ khí
-
 Nhiều loại vũ khí có các thuộc tính đặc biệt liên quan đến việc sử dụng chúng, như trong bảng có ghi.
 
 **Đạn dược.**
