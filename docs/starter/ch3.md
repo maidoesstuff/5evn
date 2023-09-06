@@ -137,7 +137,16 @@ Khiên làm bằng gỗ hoặc kim loại được cầm trên một tay. Sử d
 ## Vũ khí
 Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất trong thế giới D&D, giá cả và trọng lượng của chúng, cũng như sát thương mà chúng gây ra và bất kỳ thuộc tính đặc biệt nào chúng sở hữu. Mỗi vũ khí được phân loại là cận chiến hoặc tầm xa. Vũ khí **cận chiến** được sử dụng để tấn công mục tiêu trong phạm vi 5 feet tính từ bạn, trong khi vũ khí **tầm xa** được sử dụng để tấn công mục tiêu ở khoảng cách xa.
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
     <th>Tên</th>
