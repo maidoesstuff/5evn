@@ -135,7 +135,40 @@ Giáp hạng nặng mang lại khả năng bảo vệ tốt nhất và người 
 Khiên làm bằng gỗ hoặc kim loại được cầm trên một tay. Sử dụng một chiếc khiên sẽ tăng Armor Class của bạn lên 2. Bạn chỉ có thể hưởng lợi từ một chiếc khiên một lúc.
 
 ## Vũ khí
-Bảng Vũ khí liệt kê các loại vũ khí phổ biến nhất trong thế giới D&D, giá cả và trọng lượng của chúng, cũng như sát thương mà chúng gây ra và bất kỳ thuộc tính đặc biệt nào chúng sở hữu. Mỗi vũ khí được phân loại là cận chiến hoặc tầm xa. Vũ khí **cận chiến** được sử dụng để tấn công mục tiêu trong phạm vi 5 feet tính từ bạn, trong khi vũ khí **tầm xa** được sử dụng để tấn công mục tiêu ở khoảng cách xa.
+Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất trong thế giới D&D, giá cả và trọng lượng của chúng, cũng như sát thương mà chúng gây ra và bất kỳ thuộc tính đặc biệt nào chúng sở hữu. Mỗi vũ khí được phân loại là cận chiến hoặc tầm xa. Vũ khí **cận chiến** được sử dụng để tấn công mục tiêu trong phạm vi 5 feet tính từ bạn, trong khi vũ khí **tầm xa** được sử dụng để tấn công mục tiêu ở khoảng cách xa.
+
+| Tên                         | Giá   | Sát thương      | Cân nặng | Thuộc tính                                            |
+|-----------------------------|-------|-----------------|----------|-------------------------------------------------------|
+| _Vũ khí cận chiến đơn giản_ |       |                 |          |                                                       |
+| Chùy                        | 1 sp  | 1d4 bludgeoning | 2 lb.    | Nhẹ                                                   |
+| Dao găm                     | 2 gp  | 1d4 piercing    | 1 lb.    | Khéo léo, nhẹ, ném (tầm xa 20/60)                     |
+| Chùy to                     | 2 sp  | 1d8 bludgeoning | 10 lb.   | Hai tay                                               |
+| Rìu tay                     | 5 gp  | 1d6 slashing    | 2 lb.    | Nhẹ, ném (tầm xa 20/60)                               |
+| Giáo                        | 5 sp  | 1d6 piercing    | 2 lb.    | Ném (tầm xa 30/120)                                   |
+| Búa nhẹ                     | 2 gp  | 1d4 bludgeoning | 2 lb.    | Nhẹ, ném (tầm xa 20/60)                               |
+| Mace                        | 5 gp  | 1d6 bludgeoning | 4 lb.    | -                                                     |
+| Quarterstaff                | 2 sp  | 1d6 bludgeoning | 4 lb.    | Linh hoạt (1d8)                                       |
+| Thương                      | 1 gp  | 1d6 bludgeoning | 3 lb.    | Ném (tầm xa 20/60), linh hoạt (1d8)                   |
+| Không vũ khí                | -     | 1 bludgeoning   | -        | -                                                     |
+| _Vũ khí tầm xa đơn giản_    |       |                 |          |                                                       |
+| Nỏ, nhẹ                     | 25 gp | 1d8 piercing    | 5 lb.    | Cần đạn dược (tầm xa 80/320), cần nạp, hai tay        |
+| Cung ngắn                   | 25 gp | 1d6 piercing    | 2 lb.    | Cần đạn dược (tầm xa 80/320), hai tay                 |
+| _Vũ khí cận chiến martial_  |       |                 |          |                                                       |
+| Rìu chiến                   | 10 gp | 1d8 slashing    | 4 lb.    | Linh hoạt (1d10)                                      |
+| Đại rìu                     | 30 gp | 1d12 slashing   | 7 lb.    | Nặng, hai tay                                         |
+| Đại kiếm                    | 50 gp | 2d6 slashing    | 6 lb.    | Nặng, hai tay                                         |
+| Trường kiếm                 | 15 gp | 1d8 slashing    | 3 lb.    | Linh hoạt (1d10)                                      |
+| Maul                        | 10 gp | 2d6 bludgeoning | 10 lb.   | Nặng, hai tay                                         |
+| Morningstar                 | 15 gp | 1d8 piercing    | 4 lb.    | -                                                     |
+| Rapier                      | 25 gp | 1d8 piercing    | 2 lb.    | Khéo léo                                              |
+| Scimitar                    | 25 gp | 1d6 slashing    | 3 lb.    | Khéo léo, nhẹ                                         |
+| Đoản kiếm                   | 10 gp | 1d6 piercing    | 2 lb.    | Khéo léo, nhẹ                                         |
+| Đinh ba                     | 5 gp  | 1d6 piercing    | 4 lb.    | Khéo léo (tầm xa 20/60), linh hoạt (1d8)              |
+| Warhammer                   | 15 gp | 1d8 bludgeoning | 2 lb.    | Linh hoạt (1d10)                                      |
+| _Vũ khí tầm xa martial_     |       |                 |          |                                                       |
+| Nỏ, cầm tay                 | 75 gp | 1d6 piercing    | 3 lb.    | Cần đạn dược (tầm xa 30/120), nhẹ, cần nạp            |
+| Nỏ, nặng                    | 50 gp | 1d10 piercing   | 18 lb.   | Cần đạn dược (tầm xa 100/400), nặng, cần nạp, hai tay |
+| Cung dài                    | 50 gp | 1d8 piercing    | 2 lb.    | Cần đạn dược (tầm xa 150/600), nặng, hai tay          |
 
 #### Độ thành thạo vũ khí
 Class của bạn cho phép bạn sử dụng thành thạo một số vũ khí hoặc thể loại vũ khí nhất định. Hai loại chính là **đơn giản** và **võ thuật**. Một số chủng tộc, chẳng hạn như tộc người lùn, cũng cho độ thành thạo vũ khí. Thông thạo vũ khí cho phép bạn thêm điểm thông thạo của mình vào attack roll cho bất kỳ đòn tấn công nào bạn thực hiện bằng vũ khí đó.
