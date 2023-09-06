@@ -93,23 +93,93 @@ Bạn có thể dùng thông tin này để nâng cấp áo giáp cho nhân vậ
 
 Ai cũng có thể mặc giáp hoặc đeo khiên. Tuy nhiên, chỉ những người thành thạo với giáp mới biết cách mặc nó một cách hiệu quả. Class của bạn sẽ xác định loại áo giáp mà bạn thành thạo: fighter và cleric có thể mặc bất kỳ loại giáp nào và sử dụng khiên, rogue bị giới hạn với giáp nhẹ và wizard không thành thạo bất kỳ loại giáp hay khiên nào. Nếu bạn mặc giáp mà bạn không thành thạo, bạn sẽ gặp bất lợi trong bất kỳ ability check, saving throw hoặc tấn công nào liên quan đến Strength hoặc Dexterity, và bạn không thể sử dụng phép thuật.
 
-| Giáp             |           |                  |             |
-|------------------|-----------|------------------|-------------|
-| Loại giáp        | Giá thành | Armor Class (AC) | Trọng lượng |
-| Giáp hạng nhẹ    |           |                  |             |
-| Giáp da          | 10 gp     | 11*              | 10 lb.      |
-| Giáp da đinh tán | 45 gp     | 12*              | 13 lb.      |
-| Giáp hạng trung  |           |                  |             |
-| Giáp da thuộc    | 10 gp     | 12**             | 12 lb.      |
-| Áo xích          | 50 gp     | 13**             | 20 lb.      |
-| Giáp vảy         | 50 gp     | 14**             | 45 lb.      |
-| Giáp che ngực    | 400 gp    | 14**             | 20 lb.      |
-| Giáp hạng nặng   |           |                  |             |
-| Giáp vòng        | 30 gp     | 14               | 40 lb.      |
-| Giáp xích        | 75 gp     | 16               | 55 lb.      |
-| Giáp nẹp         | 200 gp    | 17               | 60 lb.      |
-| Khiên            |           |                  |             |
-| Khiên            | 10 gp     | +2               | 6 lb.       |
+<table>
+<thead>
+  <tr>
+    <th colspan="4">Giáp</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Loại giáp</td>
+    <td>Giá thành</td>
+    <td>Armor Class (AC)</td>
+    <td>Trọng lượng</td>
+  </tr>
+  <tr>
+    <td colspan="4">Giáp hạng nhẹ</td>
+  </tr>
+  <tr>
+    <td>Giáp da</td>
+    <td>10 gp</td>
+    <td>11*</td>
+    <td>10 lb.</td>
+  </tr>
+  <tr>
+    <td>Giáp da đinh tán</td>
+    <td>45 gp</td>
+    <td>12*</td>
+    <td>13 lb.</td>
+  </tr>
+  <tr>
+    <td colspan="4">Giáp hạng trung</td>
+  </tr>
+  <tr>
+    <td>Giáp da thuộc</td>
+    <td>10 gp</td>
+    <td>12**</td>
+    <td>12 lb.</td>
+  </tr>
+  <tr>
+    <td>Áo xích</td>
+    <td>50 gp</td>
+    <td>13**</td>
+    <td>20 lb.</td>
+  </tr>
+  <tr>
+    <td>Giáp vảy</td>
+    <td>50 gp</td>
+    <td>14**</td>
+    <td>45 lb.</td>
+  </tr>
+  <tr>
+    <td>Giáp che ngực</td>
+    <td>400 gp</td>
+    <td>14**</td>
+    <td>20 lb.</td>
+  </tr>
+  <tr>
+    <td colspan="4">Giáp hạng nặng</td>
+  </tr>
+  <tr>
+    <td>Giáp vòng</td>
+    <td>30 gp</td>
+    <td>14</td>
+    <td>40 lb.</td>
+  </tr>
+  <tr>
+    <td>Giáp xích</td>
+    <td>75 gp</td>
+    <td>16</td>
+    <td>55 lb.</td>
+  </tr>
+  <tr>
+    <td>Giáp nẹp</td>
+    <td>200 gp</td>
+    <td>17</td>
+    <td>60 lb.</td>
+  </tr>
+  <tr>
+    <td colspan="4">Khiên</td>
+  </tr>
+  <tr>
+    <td>Khiên</td>
+    <td>10 gp</td>
+    <td>+2</td>
+    <td>6 lb.</td>
+  </tr>
+</tbody>
+</table>
 
 *Bạn thêm Dexterity modifier vào Armor Class của mình khi bạn mặc bộ giáp này.
 **Bạn thêm Dexterity modifier, tối đa +2, vào Armor Class của mình khi bạn mặc bộ giáp này.
