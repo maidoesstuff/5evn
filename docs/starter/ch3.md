@@ -149,7 +149,7 @@ Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất tr
 </thead>
 <tbody>
   <tr>
-    <td colspan="5">_Vũ khí cận chiến đơn giản_</td>
+    <td colspan="5">Vũ khí cận chiến đơn giản</td>
   </tr>
   <tr>
     <td>Chùy</td>
@@ -222,7 +222,7 @@ Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất tr
     <td>-</td>
   </tr>
   <tr>
-    <td colspan="5">_Vũ khí tầm xa đơn giản_</td>
+    <td colspan="5">Vũ khí tầm xa đơn giản</td>
   </tr>
   <tr>
     <td>Nỏ, nhẹ</td>
@@ -239,11 +239,7 @@ Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất tr
     <td>Cần đạn dược (tầm xa 80/320), hai tay</td>
   </tr>
   <tr>
-    <td>_Vũ khí cận chiến martial_</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="5">Vũ khí cận chiến martial</td>
   </tr>
   <tr>
     <td>Rìu chiến</td>
@@ -323,7 +319,7 @@ Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất tr
     <td>Linh hoạt (1d10)</td>
   </tr>
   <tr>
-    <td colspan="5">_Vũ khí tầm xa martial_</td>
+    <td colspan="5">Vũ khí tầm xa martial</td>
   </tr>
   <tr>
     <td>Nỏ, cầm tay</td>
