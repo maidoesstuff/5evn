@@ -416,10 +416,10 @@ Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất tr
 </table>
 
 
-#### Độ thành thạo vũ khí
+### Độ thành thạo vũ khí
 Class của bạn cho phép bạn sử dụng thành thạo một số vũ khí hoặc thể loại vũ khí nhất định. Hai loại chính là **đơn giản** và **võ thuật**. Một số chủng tộc, chẳng hạn như tộc người lùn, cũng cho độ thành thạo vũ khí. Thông thạo vũ khí cho phép bạn thêm điểm thông thạo của mình vào attack roll cho bất kỳ đòn tấn công nào bạn thực hiện bằng vũ khí đó.
 
-#### Thuộc tính vũ khí
+### Thuộc tính vũ khí
 Nhiều loại vũ khí có các thuộc tính đặc biệt liên quan đến việc sử dụng chúng, như trong bảng có ghi.
 
 **Đạn dược.**
@@ -451,8 +451,44 @@ Vũ khí này cần sử dụng bằng hai tay.
 **Linh hoạt.**
 Vũ khí này có thể được sử dụng bằng một hoặc hai tay. Sẽ có giá trị sát thương trong ngoặc đơn đi cùng với thuộc tính này — đây là sát thương khi vũ khí được sử dụng bằng hai tay để tấn công cận chiến.
 
-#### Vũ khí Linh động
+### Vũ khí Linh động
 
 Đôi khi nhân vật không có vũ khí trên người và phải tấn công bằng bất cứ thứ gì có trong tay: một cái chai vỡ, chân bàn, chảo hoặc bánh xe. Hầu hết các chiến binh sẽ không có được độ thành thạo với những đồ vật này như vũ khí bình thường. Trong nhiều trường hợp, vũ khí linh động có thể được tính như vũ khí thật. Ví dụ, chân bàn khá giống như một cây gậy. Tùy DM, một nhân vật thành thạo một vũ khí có thể sử dụng một vật thể tương tự như vậy như vũ khí và cộng điểm proficiency của mình.
+Một vật không giống bất kỳ vũ khí nào sẽ gây sát thương 1d4 (DM chỉ định loại sát thương phù hợp). Đây cũng sẽ là lượng sát thương gây ra bởi vũ khí tầm xa khi được sử dụng làm vũ khí cận chiến và vũ khí cận chiến không có tầm bắn nhưng bị ném. Một vũ khí ném linh hoạt có tầm bắn bình thường là 20 feet và tầm xa là 60 feet.
 
+## Các dụng cụ Và DỊCH VỤ KHÁC
 
+Phần này mô tả các vật phẩm có quy tắc đặc biệt.
+
+**Nến.** Trong 1 giờ, một ngọn nến sẽ tỏa sáng rõ trong bán kính 5 foot và ánh sáng mờ thêm 5 foot nữa.
+Túi linh kiện. Túi linh kiện là một chiếc túi đeo thắt lưng bằng da nhỏ, kín nước, chứa tất cả các vật liệu và các vật phẩm đặc biệt mà bạn cần để sử dụng phép thuật của mình, ngoại trừ những vật liệu có giá cụ thể. Xem chương 4 để biết thêm về cách thi triển phép thuật.
+
+**Xà beng.** Sử dụng xà beng mang lại lợi thế cho Strength check khi có thể dùng xà beng làm đòn bẩy.
+
+**Dụng cụ Chữa thương.** Bộ dụng cụ này là một túi da chứa băng, thuốc mỡ và nẹp, dùng được mười lần. Bạn có thể dùng một hành động để sử dụng bộ công cụ này một lần để ổn định một sinh vật có 0 điểm sinh lực mà không cần đổ Wisdom (Medicine) check.
+
+**Biểu Tượng Thánh.** Biểu tượng thánh là đại diện của một vị thần hoặc thánh. Nó có thể là một tấm bùa hộ mệnh bằng bạc mô tả một biểu tượng thường được sử dụng để đại diện cho một vị thần, hoặc cũng là biểu tượng đó nhưng được khắc hoặc khảm cẩn thận trên một chiếc khiên, hoặc một chiếc hộp nhỏ chứa một mảnh thánh tích. 
+Một cleric có thể sử dụng biểu tượng thánh để thay thế các thành phần vật chất của phép thuật, ngoại trừ những thành phần có chi phí cụ thể. Để sử dụng biểu tượng theo cách này, người sử dụng phải cầm nó trong tay, đeo nó rõ ràng hoặc mang nó trên khiên. Xem chương 4 để biết thêm về cách thi triển phép thuật.
+
+**Đèn lồng, trơ.** Đèn lồng trơ sẽ chiếu sáng rõ trong một hình nón rộng 60 foot và ánh sáng mờ trong 60 foot thêm nữa. Sau khi được thắp, nó sẽ cháy trong 6 giờ với 1 bình (1 lít) dầu.
+
+**Đèn lồng có chụp.** Đèn lồng có chụp sẽ chiếu sáng rõ trong bán kính 30 foot và ánh sáng mờ trong bán kính 30 foot nữa. Sau khi thắp sáng, nó sẽ cháy trong 6 giờ với 1 bình (1 lít) dầu. Bạn có thể dùng một hành động để hạ chụp đèn xuống, giảm ánh sáng rõ thành ánh sáng mờ trong bán kính 5 foot.
+
+**Khóa.** Một sinh vật thành thạo với các công cụ của kẻ trộm có thể phá khóa này khi đổ Dexterity check DC 15 thành công. Khóa tốt hơn cũng có sẵn với giá cao hơn.
+
+**Bình dầu.** Bạn có thể dùng hành động để vẩy dầu trong bình này lên một sinh vật cách bạn trong vòng 5 feet hoặc ném nó xa tới 20 feet, làm nó vỡ tan khi va chạm. Thực hiện một cú tấn công tầm xa lên một sinh vật hoặc một mục tiêu nhất. Khi bị bạn bắn trúng, mục tiêu sẽ bị bao phủ trong dầu. Nếu mục tiêu chịu bất kỳ sát thương lửa nào trước khi dầu khô (sau 1 phút), mục tiêu sẽ nhận thêm 5 sát thương hệ lửa từ dầu đang cháy. Bạn cũng có thể đổ một bình dầu lên mặt đất để phủ một diện tích rộng 5 foot vuông, miễn là bề mặt này bằng phẳng. Nếu được thắp, dầu sẽ cháy trong 2 vòng và gây 5 sát thương hệ lửa cho bất kỳ sinh vật nào đi vào hoặc kết thúc lượt của nó trong khu vực này. Mỗi sinh vật chỉ có thể nhận sát thương này một lần mỗi lượt.
+
+**Chơi bài.** Nếu bạn chơi bài thành thạo, bạn có thể thêm điểm proficiency của mình vào các ability check mà bạn thực hiện trong lúc chơi bài.
+
+**Thuốc hồi sức.** Mỗi nhân vật uống chất lỏng ma thuật màu đỏ trong lọ này sẽ lấy lại 2d4 + 2 điểm sinh lực. Uống hoặc cho người khác uống một lọ thuốc sẽ mất một hành động.
+
+**Lương thực.** Thực phẩm khô, nhỏ gọn thích hợp cho du lịch dài ngày, khẩu phần ăn bao gồm thịt khô, trái cây sấy khô, bánh mì cứng và các loại hạt.
+Dây thừng. Dây thừng, dù làm bằng sợi gai hay lụa, đều có 2 điểm sinh lực và có thể bị đứt khi dùng Strength check DC 17.
+
+**Sách phép.** Vật tối cần thiết cho các pháp sư, sách phép là một cuốn sách bìa da với 100 trang giấy trắng để ghi lại các câu thần chú.
+Công cụ của kẻ trộm. Bộ công cụ này bao gồm một cái dũa nhỏ, một bộ cạy khóa, một chiếc gương nhỏ gắn trên một tay cầm bằng kim loại, một bộ kéo có lưỡi hẹp và một chiếc kìm. Sự thành thạo với những công cụ này cho phép bạn thêm điểm proficiency của mình vào bất kỳ ability check nào bạn thực hiện để giải bẫy hoặc mở ổ khóa.
+
+**Hộp lửa.** Hộp nhỏ này chứa đá lửa, thép chịu lửa và bùi nhùi (thường là vải khô ngâm trong dầu) dùng để đốt lửa. Việc sử dụng nó để thắp sáng một ngọn đuốc—hoặc bất kỳ thứ gì khác có nhiều nhiên liệu—sẽ mất một hành động.
+Thắp sáng bất kỳ ngọn lửa nào khác mất 1 phút.
+
+**Đuốc.** Một ngọn đuốc sẽ cháy trong 1 giờ, cung cấp ánh sáng rõ trong bán kính 20 foot và ánh sáng mờ thêm 20 foot. Nếu bạn tấn công cận chiến bằng một ngọn đuốc đang cháy và trúng đích, nó sẽ gây ra 1 sát thương hệ lửa.
