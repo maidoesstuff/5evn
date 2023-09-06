@@ -139,7 +139,7 @@ Bảng Vũ khí sau đây liệt kê các loại vũ khí phổ biến nhất tr
 
 | Tên                         | Giá   | Sát thương      | Cân nặng | Thuộc tính                                            |
 |-----------------------------|-------|-----------------|----------|-------------------------------------------------------|
-| _Vũ khí cận chiến đơn giản_ |       |                 |          |                                                       |
+| _Vũ khí cận chiến đơn giản_                                                                                              |
 | Chùy                        | 1 sp  | 1d4 bludgeoning | 2 lb.    | Nhẹ                                                   |
 | Dao găm                     | 2 gp  | 1d4 piercing    | 1 lb.    | Khéo léo, nhẹ, ném (tầm xa 20/60)                     |
 | Chùy to                     | 2 sp  | 1d8 bludgeoning | 10 lb.   | Hai tay                                               |
