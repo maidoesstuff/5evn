@@ -527,3 +527,140 @@ Thắp sáng bất kỳ ngọn lửa nào khác mất 1 phút.
 </tbody>
 </table>
 
+<table>
+<thead>
+  <tr>
+    <th colspan="3">Dây cương và Thực phẩm cho thú</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Vật phẩm</td>
+    <td>Giá</td>
+    <td>Cân nặng</td>
+  </tr>
+  <tr>
+    <td>Hàm thiếc và dây cương</td>
+    <td>2 gp</td>
+    <td>1 lb.</td>
+  </tr>
+  <tr>
+    <td>Cỏ (1 ngày)</td>
+    <td>5 cp</td>
+    <td>10 lb</td>
+  </tr>
+  <tr>
+    <td colspan="3">Yên</td>
+  </tr>
+  <tr>
+    <td>Bộ</td>
+    <td>5 gp</td>
+    <td>15 lb</td>
+  </tr>
+  <tr>
+    <td>Cưỡi</td>
+    <td>10 gp</td>
+    <td>25 lb</td>
+  </tr>
+  <tr>
+    <td>Túi yên</td>
+    <td>4 gp</td>
+    <td>8 lb</td>
+  </tr>
+  <tr>
+    <td>Chuồng ngựa (1 ngày)</td>
+    <td>5 sp</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Ăn, uống, ngủ, nghỉ</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Vật phẩm</td>
+    <td>Giá</td>
+  </tr>
+  <tr>
+    <td colspan="2">Bia</td>
+  </tr>
+  <tr>
+    <td>Gallon</td>
+    <td>2 sp</td>
+  </tr>
+  <tr>
+    <td>Cốc</td>
+    <td>4 cp</td>
+  </tr>
+  <tr>
+    <td colspan="2">Nhà nghỉ (mỗi ngày)</td>
+  </tr>
+  <tr>
+    <td>Bẩn thỉu</td>
+    <td>7 cp</td>
+  </tr>
+  <tr>
+    <td>Nghèo hèn</td>
+    <td>1 sp</td>
+  </tr>
+  <tr>
+    <td>Tạm được</td>
+    <td>5 sp</td>
+  </tr>
+  <tr>
+    <td>Thoải mái</td>
+    <td>8 sp</td>
+  </tr>
+  <tr>
+    <td>Sang trọng</td>
+    <td>2 gp</td>
+  </tr>
+  <tr>
+    <td>Quý tộc</td>
+    <td>4 gp</td>
+  </tr>
+  <tr>
+    <td colspan="2">Bữa ăn (mỗi ngày)</td>
+  </tr>
+  <tr>
+    <td>Bẩn thỉu</td>
+    <td>3 cp</td>
+  </tr>
+  <tr>
+    <td>Nghèo hèn</td>
+    <td>6 cp</td>
+  </tr>
+  <tr>
+    <td>Tạm được</td>
+    <td>3 sp</td>
+  </tr>
+  <tr>
+    <td>Thoải mái</td>
+    <td>5 sp</td>
+  </tr>
+  <tr>
+    <td>Sang trọng</td>
+    <td>8 sp</td>
+  </tr>
+  <tr>
+    <td>Quý tộc</td>
+    <td>2 gp</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rượu</td>
+  </tr>
+  <tr>
+    <td>Loại thường (trong vại)</td>
+    <td>2 sp</td>
+  </tr>
+  <tr>
+    <td>Loại tốt (trong chai)</td>
+    <td>10 gp</td>
+  </tr>
+</tbody>
+</table>
