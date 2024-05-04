@@ -489,6 +489,40 @@ Dây thừng. Dây thừng, dù làm bằng sợi gai hay lụa, đều có 2 đ
 Công cụ của kẻ trộm. Bộ công cụ này bao gồm một cái dũa nhỏ, một bộ cạy khóa, một chiếc gương nhỏ gắn trên một tay cầm bằng kim loại, một bộ kéo có lưỡi hẹp và một chiếc kìm. Sự thành thạo với những công cụ này cho phép bạn thêm điểm proficiency của mình vào bất kỳ ability check nào bạn thực hiện để giải bẫy hoặc mở ổ khóa.
 
 **Hộp lửa.** Hộp nhỏ này chứa đá lửa, thép chịu lửa và bùi nhùi (thường là vải khô ngâm trong dầu) dùng để đốt lửa. Việc sử dụng nó để thắp sáng một ngọn đuốc—hoặc bất kỳ thứ gì khác có nhiều nhiên liệu—sẽ mất một hành động.
+
+<table>
+<thead>
+  <tr>
+    <th colspan="4">Thú cưỡi và các động vật khác</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Vật phẩm</td>
+    <td>Giá thành</td>
+    <td>Tốc độ</td>
+    <td>Sức tải</td>
+  </tr>
+  <tr>
+    <td>La hoặc lừa</td>
+    <td>8 gp</td>
+    <td>40 ft.</td>
+    <td>420 lb.</td>
+  </tr>
+  <tr>
+    <td>Ngựa kéo</td>
+    <td>50 gp</td>
+    <td>40 ft.</td>
+    <td>540 lb.</td>
+  </tr>
+  <tr>
+    <td>Ngựa cưỡi</td>
+    <td>75 gp</td>
+    <td>60 ft.</td>
+    <td>480 lb.</td>
+  </tr>
+</tbody>
+</table>
 Thắp sáng bất kỳ ngọn lửa nào khác mất 1 phút.
 
 **Đuốc.** Một ngọn đuốc sẽ cháy trong 1 giờ, cung cấp ánh sáng rõ trong bán kính 20 foot và ánh sáng mờ thêm 20 foot. Nếu bạn tấn công cận chiến bằng một ngọn đuốc đang cháy và trúng đích, nó sẽ gây ra 1 sát thương hệ lửa.
